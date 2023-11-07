@@ -1,3 +1,5 @@
+ds - https://github.com/nilmartnil/expert-barnacle
+
 # Aleo Newsletter Program
 
 ## Overview
