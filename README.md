@@ -1,4 +1,4 @@
-ds - https://github.com/nilmartnil/expert-barnacle
+My discord username: nilmartnil
 
 # Aleo Newsletter Program
 
